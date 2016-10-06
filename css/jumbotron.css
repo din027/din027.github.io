@@ -1,0 +1,35 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+h1{
+	font-family: 'Bree' , serif;
+	text-align: center;
+}
+.jumbotron{
+	background-image: url('../icons/1.jpg');
+	width: auto;
+	height: auto;
+}
+hr{
+	width: 140px;
+	border-top: 2px solid #8c8b8b;
+}
+.container1{
+    font-size: large;
+}
+.container1 hr{
+  width: 180px;
+}
+.container1 p{
+	font-family: 'Special', serif;
+
+}
+.container2 hr{
+	width: 240px;
+}
+.container2 p{
+	font-size: large;
+}
