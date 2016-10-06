@@ -17,3 +17,13 @@ hr{
 	width: 140px;
 	border-top: 2px solid #8c8b8b;
 }
+.container1{
+    font-size: large;
+}
+.container1 hr{
+  width: 180px;
+}
+.container1 p{
+	font-family: 'Special', serif;
+	
+}
