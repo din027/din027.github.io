@@ -33,3 +33,6 @@ hr{
 .container2 p{
 	font-size: large;
 }
+.form-group hr{
+  width: 420px;
+}
